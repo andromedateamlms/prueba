@@ -1,1 +1,6 @@
-Hola, esta es una prueba desde mi local.
+#Aporte: Mi presentación.
+
+Hola, mi nombre es Kelly Valentina Vélez Quintero, tengo 25 años, estudié Economía, 
+actualmente trabajo en una Institución de Educación Superior en Bogotá, mi experiencia laboral ha estado relacionada
+con planeación estratégica en IES, me interesa el Desarrollo web y espero poder aportar un poco al trabajo colaborativo desde mis habilidades y conocimientos.
+
